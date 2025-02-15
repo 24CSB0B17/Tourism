@@ -1,0 +1,19 @@
+body{
+    background-image:url("image3.png"); 
+    background-size:cover;
+    background-repeat:no-repeat;
+    
+color:#000000;
+
+   text-align:center;
+}
+h1{ background-color:lightyellow ;
+    color:#ff0000;
+}
+h2{background-color: lightpink;
+    color:rgb(19, 127, 16);
+}
+p{
+    background-color:darkgrey;
+    color:blueviolet;
+}

@@ -1,0 +1,60 @@
+body{
+    background-image:url('image3.png'); 
+    background-size:cover;
+    background-repeat:no-repeat;
+    
+color:#000000;
+
+   text-align:center;
+}
+marquee{
+    background-color:pink;
+    color:black;
+    
+}
+#gh{ color:#ff0000
+
+}
+#cv{
+    background-color:#ff052a;
+}
+header{
+    font-size:30px;
+ text-align:center;
+    background-color: #0d68f0;
+    padding: 40px 40px 40px 40px ;
+}
+#hmain{
+    background-color: #afed12;
+    padding:10px;
+    font-size: 40px;
+    font-variant: small-caps;
+    color:#de1010;
+
+    
+}
+#logo{
+    width: 55px;
+    float: right;
+  
+    
+}
+
+#as{ 
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+a{
+    color:#ff0000;
+     text-decoration: none;
+  }
+  a:hover{
+      background-color: #9011ff;
+  }
+  footer{
+      padding: 10px 10px 10px 10px ;
+      text-align:center;
+      font-size:30px;
+      background-color:#05af70;
+  }

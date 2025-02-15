@@ -1,0 +1,50 @@
+body{
+    background-image: url("wa.webp");
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+#fv:hover{
+transform:scale(1.2);
+}
+header{
+    font-size:30px;
+ text-align:center;
+    background-color: #0d68f0;
+    padding: 40px 40px 40px 40px ;
+}
+#hmain{
+    background-color: #afed12;
+    padding:10px;
+    font-size: 40px;
+    font-variant: small-caps;
+    color:#de1010;
+
+    
+}
+#logo{
+    width: 55px;
+    float: right;
+  
+    
+}
+.img{
+    border-radius: 20px;
+}
+#as{ 
+    text-align: center;
+    background-color: yellowgreen;
+}
+a{
+ 
+   text-decoration: none;
+}
+a:hover{
+    background-color: #ff5511;
+}
+footer{
+    padding: 10px 10px 10px 10px ;
+    text-align:center;
+    font-size:30px;
+    background-color:#05af70;
+}

@@ -1,0 +1,50 @@
+#hmain{
+    background-color: #cccccc;
+    padding:10px;
+    font-size: 20px;
+    font-variant: small-caps;
+    color:black;
+
+    
+}
+header{
+    font-size:30px;
+ text-align:center;
+    background-color: #0d68f0;
+    padding: 40px 40px 40px 40px ;
+}
+body{
+    background-image:url("back.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#logo{
+    width: 55px;
+    float: right;
+  
+    
+}
+footer{
+    padding: 10px 10px 10px 10px ;
+    text-align:center;
+    font-size:30px;
+    background-color:#05af70;
+}
+
+a{
+  color:#ff0000;
+   text-decoration: none;
+}
+a:hover{
+    background-color: #9011ff;
+    transform:scale(2);
+}
+#hmain{
+    background-color: #afed12;
+    padding:10px;
+    font-size: 40px;
+    font-variant: small-caps;
+    color:#de1010;
+
+    
+}
